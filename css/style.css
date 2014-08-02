@@ -882,6 +882,7 @@ footer ul.footer-menu {
     list-style: none;
 }
 footer  ul.footer-menu li {
+    list-style: none;
     float: left;
 }
 footer  ul.footer-menu li a {
